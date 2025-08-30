@@ -82,8 +82,8 @@ End-to-end development of a **classified ads platform** with categories, search,
 
 ## 📬 Let's Connect!
 - 📧 Email: [iamjenjohns@gmail.com](mailto:iamjenjohns@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/jenjohns](#)  
-- 🐙 GitHub: [github.com/jenjohns](https://github.com/jenjohns)  
+- 💼 LinkedIn: [linkedin.com/in/jenjohns](https://www.linkedin.com/in/jen-johns-john/)  
+- 🐙 GitHub: [github.com/jenjohns](https://github.com/JenjohnsJohn)  
 - 🌍 Portfolio: *Coming Soon...*  
 
 ---

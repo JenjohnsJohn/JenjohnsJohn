@@ -59,8 +59,7 @@ A robust app with **geofencing, facial recognition, and offline sync** for workf
 End-to-end development of a **classified ads platform** with categories, search, chat, and payment integration.  
 - 🔧 Tech: Flutter, Node.js, MongoDB, Express, GetX  
 - 📦 Features: Modular architecture, offline support, secure storage  
-
-*(Add links/screenshots if possible)*  
+ 
 
 ---
 
